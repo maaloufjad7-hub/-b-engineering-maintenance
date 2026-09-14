@@ -1,0 +1,1 @@
+Ouvrez index.html dans Safari ou Chrome. Touchez un pays, connectez-vous, puis testez le tableau de bord et les écrans.
